@@ -31,3 +31,7 @@ Upcoming
     - Daily Collection of Customer's Dues
     - Ranged by Dates - Reports of above Entities
     - Overal Financial Report
+
+## TO-DOs
+
+- Implement API Documentation Generator by [https://scribe.knuckles.wtf/](https://scribe.knuckles.wtf/)
